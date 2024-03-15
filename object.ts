@@ -25,7 +25,7 @@ console.log(students);
 
 
 
-//array of object 
+//object of array
 let studentsInfo = {
     Name : ["Asfaa Khan" ,'Ayesha khan', 'Ahmed khan',],
     fatherName : ["Naeem Khan",'Imran','Aman '],
